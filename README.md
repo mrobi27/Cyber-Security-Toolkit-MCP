@@ -226,12 +226,6 @@ Feel free to open an Issue or submit a Pull Request.
 
 ---
 
-# 📄 License
-
-MIT License
-
----
-
 <div align="center">
 
 Made with ❤️ using **Python**, **FastMCP**, and **Model Context Protocol**
